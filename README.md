@@ -1,5 +1,5 @@
 ## Hola 👋
-#Soy Mateo Aguirre. Estudio Ing. de Sistemas en la UNAL. Quiero aprender a programar bien.
+Soy Mateo Aguirre. Estudio Ing. de Sistemas en la UNAL. Quiero aprender a programar bien.
 <!--
 **mateo389/mateo389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
