@@ -1,5 +1,5 @@
 ## Hola 👋
-Soy Mateo Aguirre. Estudio Ing. de Sistemas en la UNAL. Quiero aprender a programar bien.
+Soy Mateo Aguirre. Estudio Ing. de Sistemas en la UNAL. Quiero aprender a programar.
 
 Sé usar python y sus respectivas librerías. También un poco de C++ y JavaScript.
 <!--
